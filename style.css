@@ -1,0 +1,45 @@
+
+.container{
+    background: lightgray;
+    height: 100vh;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+ }
+ 
+ table, th, td{
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+  font-size: 18px;
+ }
+
+ h1{
+     text-align: center;
+     padding-top: 20px;
+ }
+
+ input{
+    padding: 5px;
+    margin: 20px;
+    text-align: center;
+    
+    
+ }
+ 
+ .btn {
+    width: 50%;
+    height: 30px;
+    font-size: 15px;
+    font-weight: bolder;
+    cursor: pointer;
+ }
+
+ .btn2{
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+ }
+
+ 
